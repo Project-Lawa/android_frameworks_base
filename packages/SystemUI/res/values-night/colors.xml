@@ -107,4 +107,7 @@
 
     <!-- Keyboard shortcut helper dialog -->
     <color name="ksh_key_item_color">@*android:color/system_on_surface_variant_dark</color>
+
+    <!-- Color of QS footer actions background -->
+    <color name="footer_actions_bg">@android:color/system_neutral1_900</color>
 </resources>
